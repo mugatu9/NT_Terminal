@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NT_409B_Interface", "NT_409B_Interface\NT_409B_Interface.csproj", "{5D455639-36C5-4D3C-8B9A-6C0397AA073F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "NT Terminal Setup", "NT Terminal Setup\NT Terminal Setup.vdproj", "{4780F352-4FFF-409D-9933-639BA128BC73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D455639-36C5-4D3C-8B9A-6C0397AA073F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D455639-36C5-4D3C-8B9A-6C0397AA073F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D455639-36C5-4D3C-8B9A-6C0397AA073F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D455639-36C5-4D3C-8B9A-6C0397AA073F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4780F352-4FFF-409D-9933-639BA128BC73}.Debug|Any CPU.ActiveCfg = Debug
+		{4780F352-4FFF-409D-9933-639BA128BC73}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E73FEB1-949E-4AD6-B4DA-79525D39A27B}
+	EndGlobalSection
+EndGlobal

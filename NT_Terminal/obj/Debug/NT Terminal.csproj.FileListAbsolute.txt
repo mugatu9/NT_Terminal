@@ -1,0 +1,29 @@
+C:\Users\Bob\source\repos\NT_409B_Interface\NT_409B_Interface\bin\Debug\NT_409B_Interface.exe.config
+C:\Users\Bob\source\repos\NT_409B_Interface\NT_409B_Interface\bin\Debug\NT_409B_Interface.exe
+C:\Users\Bob\source\repos\NT_409B_Interface\NT_409B_Interface\bin\Debug\NT_409B_Interface.pdb
+C:\Users\Bob\source\repos\NT_409B_Interface\NT_409B_Interface\obj\Debug\NT Terminal.csprojAssemblyReference.cache
+C:\Users\Bob\source\repos\NT_409B_Interface\NT_409B_Interface\obj\Debug\NT_409B_Interface.Interface.resources
+C:\Users\Bob\source\repos\NT_409B_Interface\NT_409B_Interface\obj\Debug\NT_409B_Interface.Properties.Resources.resources
+C:\Users\Bob\source\repos\NT_409B_Interface\NT_409B_Interface\obj\Debug\NT Terminal.csproj.GenerateResource.cache
+C:\Users\Bob\source\repos\NT_409B_Interface\NT_409B_Interface\obj\Debug\NT Terminal.csproj.CoreCompileInputs.cache
+C:\Users\Bob\source\repos\NT_409B_Interface\NT_409B_Interface\obj\Debug\NT_409B_Interface.exe
+C:\Users\Bob\source\repos\NT_409B_Interface\NT_409B_Interface\obj\Debug\NT_409B_Interface.pdb
+C:\Users\Bob\source\repos\409B_Interface\409B_Interface\bin\Debug\NT Terminal.exe.config
+C:\Users\Bob\source\repos\409B_Interface\409B_Interface\bin\Debug\NT Terminal.exe
+C:\Users\Bob\source\repos\409B_Interface\409B_Interface\bin\Debug\NT Terminal.pdb
+C:\Users\Bob\source\repos\409B_Interface\409B_Interface\obj\Debug\NT Terminal.csprojAssemblyReference.cache
+C:\Users\Bob\source\repos\409B_Interface\409B_Interface\obj\Debug\NT_Terminal.Interface.resources
+C:\Users\Bob\source\repos\409B_Interface\409B_Interface\obj\Debug\NT_Terminal.Properties.Resources.resources
+C:\Users\Bob\source\repos\409B_Interface\409B_Interface\obj\Debug\NT Terminal.csproj.GenerateResource.cache
+C:\Users\Bob\source\repos\409B_Interface\409B_Interface\obj\Debug\NT Terminal.csproj.CoreCompileInputs.cache
+C:\Users\Bob\source\repos\409B_Interface\409B_Interface\obj\Debug\NT Terminal.exe
+C:\Users\Bob\source\repos\409B_Interface\409B_Interface\obj\Debug\NT Terminal.pdb
+C:\Users\Bob\source\repos\NT_Terminal\NT_Terminal\bin\Debug\NT Terminal.exe.config
+C:\Users\Bob\source\repos\NT_Terminal\NT_Terminal\bin\Debug\NT Terminal.exe
+C:\Users\Bob\source\repos\NT_Terminal\NT_Terminal\bin\Debug\NT Terminal.pdb
+C:\Users\Bob\source\repos\NT_Terminal\NT_Terminal\obj\Debug\NT_Terminal.Interface.resources
+C:\Users\Bob\source\repos\NT_Terminal\NT_Terminal\obj\Debug\NT_Terminal.Properties.Resources.resources
+C:\Users\Bob\source\repos\NT_Terminal\NT_Terminal\obj\Debug\NT Terminal.csproj.GenerateResource.cache
+C:\Users\Bob\source\repos\NT_Terminal\NT_Terminal\obj\Debug\NT Terminal.csproj.CoreCompileInputs.cache
+C:\Users\Bob\source\repos\NT_Terminal\NT_Terminal\obj\Debug\NT Terminal.exe
+C:\Users\Bob\source\repos\NT_Terminal\NT_Terminal\obj\Debug\NT Terminal.pdb

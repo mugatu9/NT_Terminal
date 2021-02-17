@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.IO.Ports;
 using System.Collections;
 
-namespace NT_409B_Interface
+namespace NT_Terminal
 {
     class SerialClass
     {

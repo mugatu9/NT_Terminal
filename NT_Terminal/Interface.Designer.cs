@@ -1,5 +1,5 @@
 ﻿
-namespace NT_409B_Interface
+namespace NT_Terminal
 {
     partial class Interface
     {

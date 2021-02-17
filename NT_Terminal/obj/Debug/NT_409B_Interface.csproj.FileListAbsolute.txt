@@ -1,0 +1,9 @@
+C:\Users\Bob\source\repos\NT_409B_Interface\NT_409B_Interface\bin\Debug\NT_409B_Interface.exe.config
+C:\Users\Bob\source\repos\NT_409B_Interface\NT_409B_Interface\bin\Debug\NT_409B_Interface.exe
+C:\Users\Bob\source\repos\NT_409B_Interface\NT_409B_Interface\bin\Debug\NT_409B_Interface.pdb
+C:\Users\Bob\source\repos\NT_409B_Interface\NT_409B_Interface\obj\Debug\NT_409B_Interface.Properties.Resources.resources
+C:\Users\Bob\source\repos\NT_409B_Interface\NT_409B_Interface\obj\Debug\NT_409B_Interface.csproj.GenerateResource.cache
+C:\Users\Bob\source\repos\NT_409B_Interface\NT_409B_Interface\obj\Debug\NT_409B_Interface.csproj.CoreCompileInputs.cache
+C:\Users\Bob\source\repos\NT_409B_Interface\NT_409B_Interface\obj\Debug\NT_409B_Interface.exe
+C:\Users\Bob\source\repos\NT_409B_Interface\NT_409B_Interface\obj\Debug\NT_409B_Interface.pdb
+C:\Users\Bob\source\repos\NT_409B_Interface\NT_409B_Interface\obj\Debug\NT_409B_Interface.Interface.resources

@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace NT_409B_Interface
+namespace NT_Terminal
 {
     public static class Prompt
     {

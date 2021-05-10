@@ -27,4 +27,3 @@ C:\Users\Bob\source\repos\NT_Terminal\NT_Terminal\obj\Debug\NT Terminal.csproj.G
 C:\Users\Bob\source\repos\NT_Terminal\NT_Terminal\obj\Debug\NT Terminal.csproj.CoreCompileInputs.cache
 C:\Users\Bob\source\repos\NT_Terminal\NT_Terminal\obj\Debug\NT Terminal.exe
 C:\Users\Bob\source\repos\NT_Terminal\NT_Terminal\obj\Debug\NT Terminal.pdb
-C:\Users\Bob\source\repos\NT_Terminal\NT_Terminal\obj\Debug\NT Terminal.csprojAssemblyReference.cache

@@ -155,8 +155,7 @@ namespace NT_Terminal
                 String command = CommandBox.Text;
                 ResponseBox.Text = String.Empty;
                 List<String> response = new List<String>();
-                while (true)
-                {
+               
                     try
                     {
                         port.SendCommand(command);
@@ -168,14 +167,16 @@ namespace NT_Terminal
                             doubleCheckBuffer = port.ReadDataToList();
                             response.AddRange(doubleCheckBuffer);
                         }
-                        break;
+                        if(response.Count == 0)
+                        {
+                            Notification.ShowDialog("Please verify that the COM port setting is correct and that the device is powered on", "Warning");
+                        }      
                     }
                     catch (TimeoutException)
                     {
-                        ResponseBox.Text = "No data was received";
-                        break;
+                        ResponseBox.Text = "No data was received";          
                     }
-                }
+                
 
                 foreach (String s in response)
                 {

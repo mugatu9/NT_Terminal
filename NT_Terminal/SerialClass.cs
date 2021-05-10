@@ -16,7 +16,7 @@ namespace NT_Terminal
         {
             _serialPort.Parity = Parity.None;
             _serialPort.StopBits = StopBits.One;
-            _serialPort.ReadTimeout = 5;
+            _serialPort.ReadTimeout = 80;
             _serialPort.BaudRate = 19200;
 
         }
@@ -64,19 +64,14 @@ namespace NT_Terminal
         {
             List<String> data = new List<string>();
             String temp;
-            while (true)
+            while (this.BytesToRead() != 0)
             {
-                try
-                {
+               
                     temp = _serialPort.ReadLine();
                     data.Add(temp);
 
-                }
-                catch (TimeoutException)
-                {
-                    break;
-                }
             }
+               
             return data;
         }
 
